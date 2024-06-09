@@ -74,6 +74,11 @@ ScrollReveal().reveal(".services-card", {
     interval: 700,
 });
 
+ScrollReveal().reveal(".projects-box", {
+    ...scrollRevealOption,
+    interval: 600,
+});
+
 ScrollReveal().reveal(".contact-container", {
     ...scrollRevealOption,
     delay: 1000,
