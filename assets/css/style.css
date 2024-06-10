@@ -187,16 +187,16 @@ section {
 }
 
 
-.home h1 {
+.home h2 {
     font-size: 3rem;
     font-weight: 600;
 }
 
-.home h2 {
+.home h3 {
     font-size: 2.5rem;
 }
 
-.home h3 {
+.home h4 {
     font-size: 2rem;
     margin: 1rem 0 1rem;
     width: 100%;
@@ -302,15 +302,15 @@ section {
         margin: 0 3rem;
     }
 
-    .home h1 {
+    .home h2 {
         font-size: 1.6rem;
     }
 
-    .home h2 {
+    .home h3 {
         font-size: 1.5rem;
     }
 
-    .home h3 {
+    .home h4 {
         font-size: 1.1rem;
     }
 
