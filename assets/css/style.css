@@ -751,6 +751,7 @@ section {
     text-align: center;
     transform: translateY(100%);
     transition: 0.3s ease-in-out;
+    z-index: 5;
 }
 
 .projects-box:hover .projects-layer {
@@ -769,7 +770,6 @@ section {
 .projects-box a {
     position: relative;
     z-index: 10;
-    background-color: transparent;
 }
 
 .projects-box a i {
